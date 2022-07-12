@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 <h2> - DataBases</h2>
 <p align="center">
  <code><a href="https://docs.microsoft.com/en-us/sql/?view=sql-server-ver16" target="_blank"><img height="50" src="https://www.svgrepo.com/svg/303229/microsoft-sql-server-logo"></a></code>
+<code><a href="https://dev.mysql.com/doc/" target="_blank"><img height="50" src="https://www.logo.wine/logo/MySQL"></a></code>
