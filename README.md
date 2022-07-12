@@ -23,10 +23,8 @@ Here are some ideas to get you started:
  <code><a href="https://www.python.org" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></a></code>
 <code><a href="https://vuejs.org/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"></a></code>
-  <code><a href="https://adonisjs.com" target="_blank"><img height="50" src="https://camo.githubusercontent.com/076aacc894daf3d9065f7d5bd1d7e8a3d0511668576cd66afddd0ce4af524eaa/68747470733a2f2f692e696d6775722e636f6d2f32774764454a4e2e706e67"></a></code>
- 
- <br/>
+<code><a href="https://adonisjs.com" target="_blank"><img height="50" src="https://camo.githubusercontent.com/076aacc894daf3d9065f7d5bd1d7e8a3d0511668576cd66afddd0ce4af524eaa/68747470733a2f2f692e696d6775722e636f6d2f32774764454a4e2e706e67"></a></code> 
+<br/>
 <h2> - DataBases</h2>
 <p align="center">
- <code><a href="https://docs.microsoft.com/en-us/sql/?view=sql-server-ver16" target="_blank"><img height="50" src="https://www.svgrepo.com/svg/303229/microsoft-sql-server-logo"></a></code>
-<code><a href="https://dev.mysql.com/doc/" target="_blank"><img height="50" src="https://www.logo.wine/logo/MySQL"></a></code>
+<code><a href="https://adonisjs.com" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/100547074/178607467-5cd17307-1376-4f5f-bbdd-47c194e05375.png"></a></code>
