@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 <br/>
 <h2> - Languajes and tools...</h2>
 <p align="center">
+
+ <code><a href="https://laravel.com" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"></a></code>
