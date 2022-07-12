@@ -26,5 +26,6 @@ Here are some ideas to get you started:
 <code><a href="https://adonisjs.com" target="_blank"><img height="50" src="https://camo.githubusercontent.com/076aacc894daf3d9065f7d5bd1d7e8a3d0511668576cd66afddd0ce4af524eaa/68747470733a2f2f692e696d6775722e636f6d2f32774764454a4e2e706e67"></a></code> 
 <br/>
 <h2> - DataBases</h2>
-<p align="center">
 <code><a href="https://adonisjs.com" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/100547074/178607467-5cd17307-1376-4f5f-bbdd-47c194e05375.png"></a></code>
+<code><a href="https://cdnlogo.com/logo/microsoft-sql-server_808.html" target="_blank"><img height="50" src="https://cdn.cdnlogo.com/logos/m/21/microsoft-sql-server.svg"></a></code>
+<code><a href="https://cdnlogo.com/logo/mongodb-icon_41043.html"><img height="50" src="https://cdn.cdnlogo.com/logos/m/30/mongodb-icon.svg"></a></code>
