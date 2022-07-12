@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br/>
-<h2> - Lenguajes</h2>
+<h2> - Languages and Tools</h2>
 <p align="center">
 
- <code><a href="https://laravel.com" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"></a></code>
  <code><a href="https://docs.microsoft.com/en-us/dotnet/csharp" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/100547074/178605147-cef134cf-35e1-4198-9f06-74baee531d26.png"></a></code>
+ <code><a href="https://laravel.com" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"></a></code>
+ <code><a href="https://www.python.org" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"></a></code>
 
  <br/>
-<h2> - Bases de Datos</h2>
+<h2> - DataBases</h2>
 <p align="center">
