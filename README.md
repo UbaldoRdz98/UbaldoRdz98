@@ -34,3 +34,5 @@ Here are some ideas to get you started:
 <code><a href="https://adonisjs.com" target="_blank"><img height="50" src="https://cdn.cdnlogo.com/logos/m/21/microsoft-sql-server.svg"></a></code>
 <code><a href="https://cdnlogo.com/logo/microsoft-sql-server_808.html" target="_blank"><img height="50" src="https://cdn.cdnlogo.com/logos/m/78/mysql.svg"></a></code>
 <code><a href="https://cdnlogo.com/logo/mongodb-icon_41043.html"><img height="50" src="https://cdn.cdnlogo.com/logos/m/30/mongodb-icon.svg"></a></code>
+<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UbaldoRdz98)](https://github.com/anuraghazra/github-readme-stats)
