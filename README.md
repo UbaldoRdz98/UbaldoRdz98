@@ -12,8 +12,9 @@ I'm Ubaldo from Torreón, and I do content on Design and Development. I really e
 <img align="left" alt="JAVA" height="40px" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
 <img align="left" alt="PHP" height="40px" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 <img align="left" alt="Python" height="40px" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-<img align="left" alt="C#" height="40px" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
 <br/><br/><br/>
+<img align="left" alt="C#" height="40px" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img align="left" alt="C#" height="40px" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
 <img align="left" alt="Swift" height="40px" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
 <br/>
 <h2>🎶 Music</h2>
