@@ -20,8 +20,8 @@ I'm Ubaldo from Torreón, and I do content on Design and Development. I really e
 <img align="left" alt="Postgres" height="40px" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 <img align="left" alt="Mongo DB" height="40px" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 <img align="left" alt="Firebase" height="40px" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">
-<br/><br/>
+<br/><br/><br/>
 <img align="left" alt="Maria DB" height="40px" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-<br/><br/>
+<br/>
 <h2>🎶 Music</h2>
 <img align="left" alt="My Playlist" href="https://open.spotify.com/playlist/37i9dQZF1EUMDoJuT8yJsl?si=f53979a683234df6" height="50px" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
