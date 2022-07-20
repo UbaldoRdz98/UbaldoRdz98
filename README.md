@@ -1,5 +1,5 @@
 <h2>Baldo Rodriguez 👨‍💻</h2>
-<img align="right" width="15%" src="https://komarev.com/ghpvc/?username=your-github-UbaldoRdz98&color=green" alt="Banner descriptivo mio">
+<img align="right" width="15%" src="https://komarev.com/ghpvc/?username=your-github-UbaldoRdz98&color=blue" alt="Banner descriptivo mio">
 <br/><br/>
 <img width="98%" src="https://raw.githubusercontent.com/UbaldoRdz98/UbaldoRdz98/master/Banner.png" alt="Banner descriptivo mio">
 
