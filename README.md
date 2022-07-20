@@ -1,5 +1,5 @@
 <h2>Baldo Rodriguez 👨‍💻</h2>
-<img align="right" width="15%" src="https://komarev.com/ghpvc/?username=your-github-UbaldoRdz98&color=blue" alt="Banner descriptivo mio">
+<img align="right" width="15%" src="https://komarev.com/ghpvc/?username=your-github-UbaldoRdz98&color=green" alt="Banner descriptivo mio">
 <br/><br/>
 <img width="98%" src="https://raw.githubusercontent.com/UbaldoRdz98/UbaldoRdz98/master/Banner.png" alt="Banner descriptivo mio">
 
@@ -7,7 +7,8 @@ I'm Ubaldo from Torreón, and I do content on Design and Development. I really e
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UbaldoRdz98&langs_count=4&layout=compact&theme=react">
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=UbaldoRdz98&show_icons=true&theme=react">
-<br/><br/><br/><br/><br/><br/><br/>
+
+
 <h2>📋 Languages</h2>
 <img align="left" alt="Typescript" height="40px" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 <img align="left" alt="JavaScript" height="40px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
@@ -27,3 +28,8 @@ I'm Ubaldo from Torreón, and I do content on Design and Development. I really e
 <br/>
 <h2>🎶 Music</h2>
 <img align="left" alt="My Playlist" href="https://open.spotify.com/playlist/37i9dQZF1EUMDoJuT8yJsl?si=f53979a683234df6" height="50px" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
+<br/><br/>
+
+## 
+![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
+
