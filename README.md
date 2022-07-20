@@ -14,7 +14,7 @@ I'm Ubaldo from Torreón, and I do content on Design and Development. I really e
 <img align="left" alt="Python" height="40px" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <br/><br/><br/>
 <img align="left" alt="C#" height="40px" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img align="left" margin-top="10px" alt="Swift" height="40px" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
+<img align="left" margin-top="100px" alt="Swift" height="40px" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
 <br/>
 <h2>🎶 Music</h2>
 <img align="left" alt="My Playlist" href="https://open.spotify.com/playlist/37i9dQZF1EUMDoJuT8yJsl?si=f53979a683234df6" height="50px" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
