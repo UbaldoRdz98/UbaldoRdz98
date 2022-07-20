@@ -1,14 +1,15 @@
 <h2>Baldo Rodriguez 👨‍💻</h2>
 <img src="https://raw.githubusercontent.com/UbaldoRdz98/UbaldoRdz98/master/Banner.png" alt="Banner descriptivo mio">
 
-
 I'm Ubaldo from Torreón, and I do content on Design and Development. I really enjoy learning languages and frameworks like adonis and laravel, as well as work in Java for Android.
 
-<br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UbaldoRdz98)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=UbaldoRdz98&show_icons=true&theme=algolia">
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UbaldoRdz98&layout=compact">
 
 <h2> - Languages</h2>
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)<code>
+ 
+
 <code><a href="https://docs.microsoft.com/en-us/dotnet/csharp"><img height="50" src="https://cdn.cdnlogo.com/logos/c/27/c.svg"></a></code>
 <code><a href="https://dev.java/"><img height="50" src="https://cdn.cdnlogo.com/logos/j/86/java.svg"></a></code>
 <code><a href="https://www.python.org"><img height="50" src="https://cdn.cdnlogo.com/logos/p/3/python.svg"></a></code>
