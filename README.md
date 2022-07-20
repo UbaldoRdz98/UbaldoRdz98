@@ -3,8 +3,8 @@
 
 I'm Ubaldo from Torreón, and I do content on Design and Development. I really enjoy learning languages and frameworks like adonis and laravel, as well as work in Java for Android.
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=UbaldoRdz98&show_icons=true&theme=algolia">
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UbaldoRdz98&layout=compact">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=UbaldoRdz98&show_icons=true&theme=algolia">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UbaldoRdz98&layout=compact">
 
 <h2> - Languages</h2>
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)<code>
