@@ -25,10 +25,10 @@ I'm Ubaldo from Torreón, and I do content on Design and Development. I really e
 <br/><br/><br/>
 <img align="left" alt="Maria DB" height="40px" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
 <br/>
+<br/>
 <h2>🎶 Music</h2>
-<img align="left" alt="My Playlist" href="https://open.spotify.com/playlist/37i9dQZF1EUMDoJuT8yJsl?si=f53979a683234df6" height="50px" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
-<br/><br/>
 
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1EUMDoJuT8yJsl?si=cfff75d5138c4cc3)
+<br/>
 ## 
 ![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
-
