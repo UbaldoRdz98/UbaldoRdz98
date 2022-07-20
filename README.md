@@ -1,8 +1,7 @@
 <h2>Baldo Rodriguez 👨‍💻</h2>
+<img align="right" width="15%" src="https://komarev.com/ghpvc/?username=your-github-UbaldoRdz98&color=green" alt="Banner descriptivo mio">
+<br/><br/>
 <img width="98%" src="https://raw.githubusercontent.com/UbaldoRdz98/UbaldoRdz98/master/Banner.png" alt="Banner descriptivo mio">
-<img width="98%" align=right"" src="https://komarev.com/ghpvc/?username=your-github-UbaldoRdz98&color=green" alt="Banner descriptivo mio">
-
-
 
 I'm Ubaldo from Torreón, and I do content on Design and Development. I really enjoy learning languages and frameworks like adonis and laravel, as well as work in Java for Android.
 
