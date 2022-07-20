@@ -15,5 +15,12 @@ I'm Ubaldo from Torreón, and I do content on Design and Development. I really e
 <br/><br/><br/>
 <img align="left" alt="Swift" height="40px" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
 <br/>
+<h2>💾 Databases</h2>
+<img align="left" alt="MySQL" height="40px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+<img align="left" alt="Postgres" height="40px" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+<img align="left" alt="Mongo DB" height="40px" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+<img align="left" alt="Firebase" height="40px" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">
+<img align="left" alt="Maria DB" height="40px" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+<br/>
 <h2>🎶 Music</h2>
 <img align="left" alt="My Playlist" href="https://open.spotify.com/playlist/37i9dQZF1EUMDoJuT8yJsl?si=f53979a683234df6" height="50px" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
