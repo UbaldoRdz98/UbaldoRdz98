@@ -5,7 +5,7 @@
 
 I'm Ubaldo from Torreón, and I do content on Design and Development. I really enjoy learning languages and frameworks like adonis and laravel, as well as work in Java for Android. 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UbaldoRdz98&langs_count=8&theme=react">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UbaldoRdz98&langs_count=3&theme=react">
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=UbaldoRdz98&show_icons=true&theme=react">
 <br/><br/><br/><br/><br/><br/><br/><br/>
 <h2>📋 Languages</h2>
